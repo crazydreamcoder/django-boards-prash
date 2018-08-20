@@ -1,12 +1,12 @@
 __pycache__/
 *.py[cod]
 .env
+.pydevproject
+.project
 venv/
 
 
 # SQLite database files
 
 *.sqlite3
-.pydevproject
-.project
 
